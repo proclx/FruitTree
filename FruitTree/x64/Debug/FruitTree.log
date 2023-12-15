@@ -1,0 +1,6 @@
+﻿  FruitTree.cpp
+  main.cpp
+C:\Users\користувач36\Desktop\fruitTree\FruitTree\main.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\користувач36\Desktop\fruitTree\FruitTree\main.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  FruitTree.vcxproj -> C:\Users\користувач36\Desktop\fruitTree\FruitTree\x64\Debug\FruitTree.exe

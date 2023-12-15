@@ -1,0 +1,16 @@
+Tree: Apple_tree
+Heigth: 200
+Productivity: 11
+Age: 4
+Tree: Pinapple_tree
+Heigth: 525
+Productivity: 40
+Age: 13
+Tree: Peach_tree
+Heigth: 1300
+Productivity: 109
+Age: 32
+Tree: Cherry_tree
+Heigth: 425
+Productivity: 28
+Age: 11
